@@ -1,9 +1,9 @@
 # Soon
 
-Android APK downloads for [Soon](https://github.com/tonyskchen-commits/Soon-Android-App).
+Android APK downloads for Soon.
 
-## 1.5.1
+## 1.5.2
 
-Alarm keeps ringing until Done or Snooze. Repeat is set when you edit a reminder.
+Rings in the background. Opens the app → sound stops; overlay stays so you can Done or Snooze.
 
-**Download:** [Soon-1.5.1.apk](https://github.com/tonyskchen-commits/Soon-releases/releases/download/v1.5.1/Soon-1.5.1.apk)
+**Download:** [Soon-1.5.2.apk](https://github.com/tonyskchen-commits/Soon-releases/releases/download/v1.5.2/Soon-1.5.2.apk)
