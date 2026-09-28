@@ -2,8 +2,8 @@
 
 Android APK downloads for Soon.
 
-## 1.5.2
+## 1.5.3
 
-Rings in the background. Opens the app → sound stops; overlay stays so you can Done or Snooze.
+Larger clock time while you hold and spin a duration.
 
-**Download:** [Soon-1.5.2.apk](https://github.com/tonyskchen-commits/Soon-releases/releases/download/v1.5.2/Soon-1.5.2.apk)
+**Download:** [Soon-1.5.3.apk](https://github.com/tonyskchen-commits/Soon-releases/releases/download/v1.5.3/Soon-1.5.3.apk)
